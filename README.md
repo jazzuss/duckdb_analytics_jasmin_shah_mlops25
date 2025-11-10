@@ -1,0 +1,2 @@
+# duckdb_analytics_jasmin_shah_mlops25
+Learning Duckdb
